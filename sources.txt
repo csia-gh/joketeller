@@ -1,0 +1,16 @@
+http://www.voicerss.org/api/documentation.aspx Text-to-Speech API (VoiceRSS)
+
+https://sv443.net/jokeapi/v2/ JokeAPI
+
+
+Diagram - Joke Teller Flowchart
+https://drive.google.com/file/d/12AYMIVokAFYhNnf3wyQPlsfpJrq4t9yN/view
+
+https://www.w3schools.com/tags/ref_av_dom.asp W3Schools - Audio DOM Reference
+
+Hiding API Keys On Server
+https://stackoverflow.com/questions/47822525/where-to-hide-an-api-key
+
+
+video 2. https://cdn.fs.teachablecdn.com/Zcw8XqlRhqq3axmYN4z3
+video 3. https://cdn.fs.teachablecdn.com/dyPqj1G1RiqB4VbGMEDS
