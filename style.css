@@ -16,11 +16,12 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url('./robot.gif');
+  background: #333;
+  /* background: url('./robot.gif'); */
   background-size: contain;
   /* background-size: contain; the img will be fully visible */
-  background-position: left center;
-  background-repeat: no-repeat;
+  /* background-position: left center; */
+  /* background-repeat: no-repeat; */
 }
 
 .repeat {

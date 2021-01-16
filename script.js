@@ -176,3 +176,9 @@ async function getJokes() {
 // Event Listeners
 button.addEventListener('click', getJokes);
 // audioElement.addEventListener('ended', toggleButton);
+
+var person = prompt('Please enter password');
+
+if (person != 'darkjokes') {
+  document.body.innerHTML = '';
+}
